@@ -2,3 +2,6 @@ baseURL: https://example.org/
 languageCode: en-us
 title: あまブログ
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
