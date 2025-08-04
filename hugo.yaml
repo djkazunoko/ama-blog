@@ -1,5 +1,5 @@
 baseURL: https://ama-blog.com/
-languageCode: en-us
+languageCode: ja-JP
 title: あまブログ
 theme: ["PaperMod"]
 caches:
