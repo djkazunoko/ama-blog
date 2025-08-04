@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>あまブログ</title>
-    <link>https://example.org/</link>
+    <link>https://ama-blog.com/</link>
     <description>Recent content on あまブログ</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Aug 2025 12:35:51 +0900</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ama-blog.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://example.org/posts/1/</link>
+      <link>https://ama-blog.com/posts/1/</link>
       <pubDate>Sat, 02 Aug 2025 12:35:51 +0900</pubDate>
-      <guid>https://example.org/posts/1/</guid>
+      <guid>https://ama-blog.com/posts/1/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
