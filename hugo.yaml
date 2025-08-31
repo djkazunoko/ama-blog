@@ -5,3 +5,9 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
+
+Params:
+  editPost:
+    URL: "https://github.com/djkazunoko/ama-blog/tree/main/content"
+    Text: "変更を提案する"
+    appendFilePath: true
