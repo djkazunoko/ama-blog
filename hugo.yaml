@@ -11,3 +11,9 @@ Params:
     URL: "https://github.com/djkazunoko/ama-blog/tree/main/content"
     Text: "変更を提案する"
     appendFilePath: true
+
+menu:
+  main:
+    - name: Archive
+      url: /archives
+      weight: 1
