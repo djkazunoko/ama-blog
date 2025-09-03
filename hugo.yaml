@@ -17,3 +17,6 @@ menu:
     - name: Archive
       url: /archives
       weight: 1
+
+taxonomies:
+  tag: tags
