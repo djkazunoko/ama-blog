@@ -6,11 +6,12 @@ caches:
   images:
     dir: :cacheDir/images
 
-Params:
+params:
   editPost:
     URL: "https://github.com/djkazunoko/ama-blog/tree/main/content"
     Text: "変更を提案する"
     appendFilePath: true
+  ShowPostNavLinks: true
 
 menu:
   main:
