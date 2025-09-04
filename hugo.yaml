@@ -12,6 +12,7 @@ params:
     Text: "変更を提案する"
     appendFilePath: true
   ShowPostNavLinks: true
+  ShowShareButtons: true
 
 menu:
   main:
