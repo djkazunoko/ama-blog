@@ -20,8 +20,11 @@ menu:
       url: /archives
       weight: 1
     - name: Tags
-      url: tags/
+      url: /tags
       weight: 2
+    - name: Search
+      url: /search
+      weight: 3
 
 taxonomies:
   tag: tags
