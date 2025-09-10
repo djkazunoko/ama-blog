@@ -5,6 +5,7 @@ title: 'Alfredのブックマーク検索機能の使い方'
 showToc: true
 tocopen: true
 tags: ["未分類"]
+slug: '2'
 ---
 
 本稿では、macOS用ランチャーアプリAlfredの「ブックマーク検索機能」について、設定方法や使い方を解説していきます。

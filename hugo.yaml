@@ -34,3 +34,6 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+permalinks:
+  posts: /:slug/
