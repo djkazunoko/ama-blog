@@ -13,6 +13,7 @@ params:
     appendFilePath: true
   ShowPostNavLinks: true
   ShowShareButtons: true
+  ShowCodeCopyButtons: true
 
 menu:
   main:
