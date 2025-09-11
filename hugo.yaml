@@ -14,6 +14,8 @@ params:
   ShowPostNavLinks: true
   ShowShareButtons: true
   ShowCodeCopyButtons: true
+  showToc: true
+  tocopen: true
 
 menu:
   main:

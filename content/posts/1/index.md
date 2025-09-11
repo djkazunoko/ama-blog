@@ -2,8 +2,6 @@
 date: '2022-02-01'
 draft: false
 title: 'MacBookでシェルをbashやzshに切り替える方法'
-showToc: true
-tocopen: true
 tags: ["未分類"]
 slug: '1'
 ---

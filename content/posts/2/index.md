@@ -2,8 +2,6 @@
 date: '2022-02-28'
 draft: false
 title: 'Alfredのブックマーク検索機能の使い方'
-showToc: true
-tocopen: true
 tags: ["未分類"]
 slug: '2'
 ---
