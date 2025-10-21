@@ -1,5 +1,5 @@
 ---
-date: '2025-05-08'
+date: '2022-05-08'
 draft: false
 title: '【Rails/MySQL】RailsでMySQLを使う方法'
 tags: ["未分類"]
