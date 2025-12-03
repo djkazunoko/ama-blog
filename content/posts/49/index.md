@@ -137,7 +137,7 @@ p fs.mode.to_s(8) #=> "100644"
 
 8進表記を記号表記に変換するロジックについては以下の記事で解説しています。
 
-[【Ruby3.1】lsコマンドを作る - あまブログ](https://ama-tech.hatenablog.com/ls-command-in-ruby)
+[【Ruby3.1】lsコマンドを作る | あまブログ](https://ama-blog.com/50/)
 
 ---
 
