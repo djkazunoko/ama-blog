@@ -45,8 +45,6 @@ Nginxの設定ファイルの詳しい解説は以下の記事を参照してく
 
 ![公開鍵証明書発行の流れ](images/1.png)
 
-<figure class="figure-image figure-image-fotolife" title="[図解 X.509 証明書](https://qiita.com/TakahikoKawasaki/items/4c35ac38c52978805c69#2-%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3)より">[f:id:djkazunoko:20220613115313p:plain]<figcaption>[図解 X.509 証明書](https://qiita.com/TakahikoKawasaki/items/4c35ac38c52978805c69#2-%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3)より</figcaption></figure>
-
 ## 3. 手順
 
 以下の手順で進めていきます。
