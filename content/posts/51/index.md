@@ -520,7 +520,7 @@ require 'cgi'
 
 以下の記事では、今回作成したメモアプリのデータ保存先をPostgreSQLに変更する手順を紹介しています。
 
-[【Ruby】Sinatraでメモアプリを作る(DB編) - あまブログ](https://ama-tech.hatenablog.com/sinatra-memo-app-with-db)
+[【Ruby】Sinatraでメモアプリを作る(DB編) - あまブログ](https://ama-blog.com/55/)
 
 ---
 
