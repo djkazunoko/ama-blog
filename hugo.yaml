@@ -40,3 +40,8 @@ outputs:
 
 permalinks:
   posts: /:slug/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
