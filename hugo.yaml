@@ -18,13 +18,13 @@ params:
 
 menu:
   main:
-    - name: Archive
+    - name: 月別アーカイブ
       url: /archives
       weight: 1
-    - name: Tags
+    - name: タグ
       url: /tags
       weight: 2
-    - name: Search
+    - name: 検索
       url: /search
       weight: 3
 
