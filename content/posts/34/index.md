@@ -8,7 +8,7 @@ slug: 34'
 
 OOP版はこちら↓
 
-[【Ruby3.1】ボウリングのスコア計算プログラムをオブジェクト指向で作る - あまブログ](https://ama-tech.hatenablog.com/oop-bowling-score-calculator-program-in-ruby)
+[【Ruby3.1】ボウリングのスコア計算プログラムをオブジェクト指向で作る | あまブログ](https://ama-blog.com/68/)
 
 ## 1. 実行環境
 - macOS Monterey 12.4
