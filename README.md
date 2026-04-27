@@ -6,7 +6,7 @@ hugo new content content/posts/1/index.md
 
 ## サーバーの起動
 ```
-hugo server
+hugo server -O
 ```
 
 ## デプロイ
